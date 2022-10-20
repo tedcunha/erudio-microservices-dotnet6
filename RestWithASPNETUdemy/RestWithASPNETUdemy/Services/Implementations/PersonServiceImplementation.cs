@@ -44,7 +44,7 @@ namespace RestWithASPNETUdemy.Services.Implementations
 
         public void Delete(long Id)
         {
-            throw new NotImplementedException();
+            return;
         }
 
         private Person MockPerson(int i)
